@@ -11,10 +11,14 @@ This site is designed as the official concept source for **Sustenesis** and **Su
 - `index.html` — English homepage and concept entry
 - `what-is-sustenesis.html` — canonical definition page
 - `sustenesis-theory.html` — theory overview
+- `essays/index.html` — English essay collection index
+- `essays/church-as-sustenetic-structure.html` — English collection essay
 - `glossary.html` — core concept glossary
 - `about-geoffrey-chen.html` — author page
 - `cite-sustenesis.html` — citation formats
 - `zh/index.html` — Chinese entry page
+- `zh/essays/index.html` — Chinese essay collection index
+- `zh/essays/church-as-sustenetic-structure.html` — Chinese collection essay
 - `robots.txt` — crawler permissions
 - `sitemap.xml` — sitemap for search engines
 - `CNAME` — custom domain setting for GitHub Pages
