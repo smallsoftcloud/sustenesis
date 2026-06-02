@@ -8,6 +8,7 @@
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/" />
   </url>
   <url>
     <loc>https://sustenesis.com/what-is-sustenesis.html</loc>
@@ -29,11 +30,21 @@
   </url>
   <url>
     <loc>https://sustenesis.com/essays/</loc>
-    <lastmod>2026-05-31</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/essays/church-as-sustenetic-structure.html</loc>
@@ -42,6 +53,7 @@
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/church-as-sustenetic-structure.html" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/church-as-sustenetic-structure.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/church-as-sustenetic-structure.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/about-geoffrey-chen.html</loc>
@@ -57,19 +69,30 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/</loc>
-    <lastmod>2026-05-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/</loc>
-    <lastmod>2026-05-31</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/church-as-sustenetic-structure.html</loc>
@@ -78,5 +101,6 @@
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/church-as-sustenetic-structure.html" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/church-as-sustenetic-structure.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/church-as-sustenetic-structure.html" />
   </url>
 </urlset>
