@@ -244,6 +244,48 @@ li {
   font-size: 0.95rem;
 }
 
+.academic-frontmatter {
+  margin: 28px 0 0;
+}
+
+.academic-meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  margin: 0 0 24px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.academic-meta div {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(207, 200, 186, 0.55);
+}
+
+.academic-meta div:nth-last-child(-n+2) {
+  border-bottom: 0;
+}
+
+.academic-meta dt {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.academic-meta dd {
+  margin: 0;
+}
+
+.academic-keywords {
+  color: var(--muted);
+  font-size: 0.96rem;
+}
+
 code,
 pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
@@ -288,5 +330,18 @@ pre {
 
   main {
     padding-top: 34px;
+  }
+
+  .academic-meta {
+    grid-template-columns: 1fr;
+  }
+
+  .academic-meta div,
+  .academic-meta div:nth-last-child(-n+2) {
+    border-bottom: 1px solid rgba(207, 200, 186, 0.55);
+  }
+
+  .academic-meta div:last-child {
+    border-bottom: 0;
   }
 }

@@ -30,12 +30,21 @@
   </url>
   <url>
     <loc>https://sustenesis.com/essays/</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/essays/conceptual-loop-in-marxs-materialism.html</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/conceptual-loop-in-marxs-materialism.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/conceptual-loop-in-marxs-materialism.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/conceptual-loop-in-marxs-materialism.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html</loc>
@@ -69,7 +78,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
@@ -78,12 +87,21 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/essays/conceptual-loop-in-marxs-materialism.html</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/conceptual-loop-in-marxs-materialism.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/conceptual-loop-in-marxs-materialism.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/conceptual-loop-in-marxs-materialism.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/critique-of-hegels-dialectic-through-sustenesis-theory.html</loc>
