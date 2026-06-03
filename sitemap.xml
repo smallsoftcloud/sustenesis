@@ -30,12 +30,21 @@
   </url>
   <url>
     <loc>https://sustenesis.com/essays/</loc>
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/essays/existence-as-maintenance-of-structure.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/existence-as-maintenance-of-structure.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/existence-as-maintenance-of-structure.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/existence-as-maintenance-of-structure.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/essays/conceptual-loop-in-marxs-materialism.html</loc>
@@ -78,7 +87,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/</loc>
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
@@ -87,12 +96,21 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/</loc>
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/essays/existence-as-maintenance-of-structure.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/existence-as-maintenance-of-structure.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/existence-as-maintenance-of-structure.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/existence-as-maintenance-of-structure.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/conceptual-loop-in-marxs-materialism.html</loc>
