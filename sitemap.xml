@@ -3,12 +3,21 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sustenesis.com/</loc>
-    <lastmod>2026-05-28</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/verification.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/verification.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/verification.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/verification.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/what-is-sustenesis.html</loc>
@@ -111,6 +120,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/verification.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/verification.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/verification.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/verification.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/</loc>
