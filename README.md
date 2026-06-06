@@ -11,7 +11,9 @@ This site is designed as the official concept source for **Sustenesis** and **Su
 - `index.html` — English homepage and concept entry
 - `what-is-sustenesis.html` — canonical definition page
 - `sustenesis-theory.html` — theory overview
-- `essays/index.html` — English essay collection index
+- `essays/index.html` — English first essay collection index, focused mainly on philosophical essays
+- `applications/index.html` — English application collection index
+- `applications/passport-fees-sustenesis-coherence.html` — English application essay
 - `essays/does-ai-have-consciousness-sustenesis-view.html` — English collection essay
 - `essays/existence-as-maintenance-of-structure.html` — English collection essay
 - `essays/conceptual-loop-in-marxs-materialism.html` — English collection essay
@@ -21,7 +23,9 @@ This site is designed as the official concept source for **Sustenesis** and **Su
 - `about-geoffrey-chen.html` — author page
 - `cite-sustenesis.html` — citation formats
 - `zh/index.html` — Chinese entry page
-- `zh/essays/index.html` — Chinese essay collection index
+- `zh/essays/index.html` — Chinese first essay collection index, focused mainly on philosophical essays
+- `zh/applications/index.html` — Chinese application collection index
+- `zh/applications/passport-fees-sustenesis-coherence.html` — Chinese application essay
 - `zh/essays/does-ai-have-consciousness-sustenesis-view.html` — Chinese collection essay
 - `zh/essays/existence-as-maintenance-of-structure.html` — Chinese collection essay
 - `zh/essays/conceptual-loop-in-marxs-materialism.html` — Chinese collection essay

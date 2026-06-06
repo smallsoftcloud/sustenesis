@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sustenesis.com/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/verification.html</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/verification.html" />
@@ -39,12 +39,30 @@
   </url>
   <url>
     <loc>https://sustenesis.com/essays/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/applications/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/passport-fees-sustenesis-coherence.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/essays/consciousness-hard-problem-sustenesis-theory.html</loc>
@@ -114,7 +132,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
@@ -123,7 +141,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/verification.html</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/verification.html" />
@@ -132,12 +150,30 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/applications/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/applications/passport-fees-sustenesis-coherence.html</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/passport-fees-sustenesis-coherence.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/consciousness-hard-problem-sustenesis-theory.html</loc>
