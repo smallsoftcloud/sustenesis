@@ -14,6 +14,7 @@ This site is designed as the official concept source for **Sustenesis** and **Su
 - `essays/index.html` — English first essay collection index, focused mainly on philosophical essays
 - `applications/index.html` — English application collection index
 - `applications/passport-fees-sustenesis-coherence.html` — English application essay
+- `essays/language-is-not-ontology-sustenesis-wittgenstein.html` — English collection essay
 - `essays/does-ai-have-consciousness-sustenesis-view.html` — English collection essay
 - `essays/existence-as-maintenance-of-structure.html` — English collection essay
 - `essays/conceptual-loop-in-marxs-materialism.html` — English collection essay
@@ -26,6 +27,7 @@ This site is designed as the official concept source for **Sustenesis** and **Su
 - `zh/essays/index.html` — Chinese first essay collection index, focused mainly on philosophical essays
 - `zh/applications/index.html` — Chinese application collection index
 - `zh/applications/passport-fees-sustenesis-coherence.html` — Chinese application essay
+- `zh/essays/language-is-not-ontology-sustenesis-wittgenstein.html` — Chinese collection essay
 - `zh/essays/does-ai-have-consciousness-sustenesis-view.html` — Chinese collection essay
 - `zh/essays/existence-as-maintenance-of-structure.html` — Chinese collection essay
 - `zh/essays/conceptual-loop-in-marxs-materialism.html` — Chinese collection essay
