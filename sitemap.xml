@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/essays/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
@@ -63,6 +63,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/passport-fees-sustenesis-coherence.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/essays/human-universe-quantum-sustenesis-theory.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/human-universe-quantum-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/human-universe-quantum-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/human-universe-quantum-sustenesis-theory.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/essays/coherence-requirement-logical-ground-sustenesis-theory.html</loc>
@@ -168,7 +177,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/" />
@@ -192,6 +201,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/passport-fees-sustenesis-coherence.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/essays/human-universe-quantum-sustenesis-theory.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/essays/human-universe-quantum-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/essays/human-universe-quantum-sustenesis-theory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/essays/human-universe-quantum-sustenesis-theory.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/essays/coherence-requirement-logical-ground-sustenesis-theory.html</loc>

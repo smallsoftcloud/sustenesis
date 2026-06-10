@@ -14,6 +14,7 @@ This site is designed as the official concept source for **Sustenesis** and **Su
 - `essays/index.html` — English first essay collection index, focused mainly on philosophical essays
 - `applications/index.html` — English application collection index
 - `applications/passport-fees-sustenesis-coherence.html` — English application essay
+- `essays/human-universe-quantum-sustenesis-theory.html` — English collection essay
 - `essays/coherence-requirement-logical-ground-sustenesis-theory.html` — English collection essay
 - `essays/language-is-not-ontology-sustenesis-wittgenstein.html` — English collection essay
 - `essays/consciousness-hard-problem-sustenesis-theory.html` — English collection essay
@@ -29,6 +30,7 @@ This site is designed as the official concept source for **Sustenesis** and **Su
 - `zh/essays/index.html` — Chinese first essay collection index, focused mainly on philosophical essays
 - `zh/applications/index.html` — Chinese application collection index
 - `zh/applications/passport-fees-sustenesis-coherence.html` — Chinese application essay
+- `zh/essays/human-universe-quantum-sustenesis-theory.html` — Chinese collection essay
 - `zh/essays/coherence-requirement-logical-ground-sustenesis-theory.html` — Chinese collection essay
 - `zh/essays/language-is-not-ontology-sustenesis-wittgenstein.html` — Chinese collection essay
 - `zh/essays/consciousness-hard-problem-sustenesis-theory.html` — Chinese collection essay
