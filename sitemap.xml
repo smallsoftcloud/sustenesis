@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sustenesis.com/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
@@ -54,6 +54,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/dialogues/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/dialogues/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/dialogues/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/dialogues/" />
   </url>
   <url>
     <loc>https://sustenesis.com/applications/passport-fees-sustenesis-coherence.html</loc>
@@ -159,7 +168,7 @@
   </url>
   <url>
     <loc>https://sustenesis.com/zh/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/" />
@@ -192,6 +201,22 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/applications/" />
     <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/applications/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/applications/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/dialogues/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sustenesis.com/dialogues/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/dialogues/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sustenesis.com/dialogues/" />
+  </url>
+  <url>
+    <loc>https://sustenesis.com/zh/dialogues/western-philosophers-sustenesis-dialogues-preface.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://sustenesis.com/zh/dialogues/western-philosophers-sustenesis-dialogues-preface.html" />
   </url>
   <url>
     <loc>https://sustenesis.com/zh/applications/passport-fees-sustenesis-coherence.html</loc>
